@@ -1,1 +1,4 @@
 # semana-7-y-8
+sergio 
+diego
+Este código tiene como objetivo simular un sistema interactivo para la gestión de un zoológico mediante un menú en consola. Permite al usuario agregar diferentes tipos de animales (básico, mamífero o ave), alimentar a todos los animales registrados y mostrar su información. Utiliza programación orientada a objetos, importando clases como Animal, Mamifero y Ave, aplicando conceptos como herencia y encapsulación. Los animales se almacenan en una lista y el sistema responde a las acciones del usuario a través de un menú que se repite hasta que se elige la opción de salir.
